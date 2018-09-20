@@ -1,0 +1,24 @@
+﻿  stdafx.cpp
+  MiniScopeControl.cpp
+  MiniScopeControlDlg.cpp
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(489): warning C4244: '=': 'LONGLONG' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(495): warning C4244: '引数': 'LONGLONG' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(501): warning C4244: '引数': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(502): warning C4244: '引数': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(592): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(765): warning C4805: '==': 演算中の 'BOOL' 型と 'bool' 型の混用は安全ではありません
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(766): warning C4244: '=': 'double' から 'unsigned char' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(792): warning C4244: '=': 'double' から 'LONGLONG' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(794): warning C4244: '=': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(882): warning C4244: '=': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(884): warning C4244: '=': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(931): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(960): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(964): warning C4244: '=': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+c:\users\admin2\desktop\iiis_daqsoftware - no check\miniscopecontroldlg.cpp(990): warning C4244: '=': 'double' から 'UINT' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  830 of 846 functions (98.1%) were compiled, the rest were copied from previous compilation.
+    41 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  MiniScopeControl.vcxproj -> C:\Users\admin2\Desktop\iiis_DAQsoftware - no check\x64\Release\MiniScopeControl.exe
