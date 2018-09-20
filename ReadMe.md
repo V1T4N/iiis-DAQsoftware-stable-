@@ -11,3 +11,4 @@ If you need No-splited file, enter large number.
 <br>
 <br>
 You can download compiled software from here
+https://drive.google.com/open?id=1GA60SpJ4MBpCiRPVc2D8Ilq914VJxLnE
